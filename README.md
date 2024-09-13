@@ -4,15 +4,15 @@ This project offers an **AI-Powered Discord Bot** developed in Python, which you
 
 ## 📜 Table of Contents
 
-- [Features](#features)
-- [Commands](#commands)
-- [Technologies](#🛠technologies)
-- [Setup](#setup)
-- [API Integration](#api-integration)
-- [Development Process](#development-process)
-- [Contributing](#contributing)
-- [Future Plans](#future-plans)
-- [License](#license)
+- [Features](#-features)
+- [Commands](#-commands)
+- [Technologies](#-technologies)
+- [Setup](#-setup)
+- [API Integration](#-api-integration)
+- [Development Process](#-development-process)
+- [Contributing](#-contributing)
+- [Future Plans](#-future-plans)
+- [License](#-license)
 
 ## 🚀 Features
 
