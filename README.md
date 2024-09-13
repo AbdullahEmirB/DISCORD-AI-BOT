@@ -57,7 +57,7 @@ To run this bot on your server, follow these steps:
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/username/ai-discord-bot.git
+   git clone https://github.com/AbdullahEmirB/DISCORD-AI-BOT
    ```
 
 2. Install dependencies:
@@ -75,6 +75,8 @@ To run this bot on your server, follow these steps:
 ## 🔑 API Integration
 
 The bot uses OpenAI and Google Translate APIs to power its chat and translation features. For financial data, it pulls real-time information from various APIs to provide exchange rates and stock predictions.
+
+Important: The AI-powered chat feature requires OpenAI credits to function. Without credits, this feature will not be available.
 
 ## 📅 Development Process
 
